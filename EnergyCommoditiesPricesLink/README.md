@@ -36,17 +36,20 @@ An econometric analysis of price transmission between European gas (TTF), Asian 
 ## 4. Results
 
 ### Price growth (base 100)
-![Energy commodities price growth]('/Users/jeanmiccheltia/Downloads/Screenshot 2026-10-28 at 19.14.59.png')
+![Energy commodities price growth](<img width="1008" height="598" alt="image" src="https://github.com/user-attachments/assets/abededcc-ae1b-4ae6-8974-632710c22dd1" />
+)
 
 All four prices moved together until 2021. During the energy crisis, TTF rose about 16-fold at its 2022 peak, far more than JKM (about 8-fold), coal (about 4.5-fold) and Brent (about 2-fold). Prices fell back in 2023, but TTF and JKM rose again in 2026.
 
 ### JKM–TTF spread
-![JKM minus TTF spread]('/Users/jeanmiccheltia/Downloads/Screenshot 2026-10-28 at 19.15.20.png')
+![JKM minus TTF spread](<img width="1027" height="638" alt="image" src="https://github.com/user-attachments/assets/231b1c04-7411-4d0a-9f29-7a27f1562bc4" />
+)
 
 Asia normally pays a small premium for LNG (about $0–4/MMBtu). From early 2022 the spread turned sharply negative, reaching about −$16/MMBtu on a 30-day average (below −$30 on single days), as Europe outbid Asia for LNG cargoes. It returned to positive in early 2023, with short negative dips since then around winter and early spring.
 
 ### Impulse responses: 2017–2020 vs 2021–2026
-![Impulse responses by period]('/Users/jeanmiccheltia/Downloads/Screenshot 2026-10-28 at 19.15.49.png')
+![Impulse responses by period](<img width="1024" height="333" alt="image" src="https://github.com/user-attachments/assets/17736da6-b2cb-47a4-a710-9cef1b40a505" />
+)
 
 - **JKM** responds in both periods, but the effect roughly doubled after 2021 (about 4.2% vs 2.2% after 30 trading days) and comes much faster.
 - **Coal** shows virtually no response before 2021. Since 2021 it rises to about 1.3% within 4–5 trading days and then stays there.
